@@ -1,17 +1,14 @@
 name: Waka Readme
- 
+
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: '0 0 * * *'
- 
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
-    name: Update this repo's README 
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: panda-sheep/waka-readme@master
