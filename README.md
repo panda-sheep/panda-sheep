@@ -13,16 +13,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript, CSS, React**
-- Backend development using **Node.js, Python**
-- Architecture design for Relational Database Management Systems like **MySQL, Postgres** as well as for NoSQL database systems like **Cassandra, MongoDB and Neo4j**
-- Robust full-stack system design implementation
-- Build kinds of models with **Machine Learning** and **Deep Learning** algorithms
-- Manage and maintain cloud server using **Ali Cloud**
-- Solving Data structure and algorithm questions.
-- Quantitative trading strategy with **Python**
 
 ### 👨‍💻 Open source work stats
 
