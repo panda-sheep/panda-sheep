@@ -1,5 +1,5 @@
 ### Hi there 👋
-![panda-sheep's github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&count_private=true
+![panda-sheep's github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&count_private=true)
 
 <!--
 **panda-sheep/panda-sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
