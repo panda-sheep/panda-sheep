@@ -19,7 +19,7 @@ Following my passion for programming, I am a **software engineer** who is passio
 I love to explore and learn about any new things ❤️.
 
 
-### 📊 Weekly development breakdown
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -39,7 +39,7 @@ Talk to me about
 
 ### 👨‍💻 Open source work stats
 
-![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ### 📫 Reach me 
