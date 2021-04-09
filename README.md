@@ -12,7 +12,6 @@ I love to explore and learn about any new things ❤️.
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
 <br />
 
 ### ⚡ Technologies
