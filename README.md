@@ -13,6 +13,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<br />
+
 ### ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript, CSS, React**
@@ -29,13 +31,4 @@ Talk to me about
 ![Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-### 📫 Reach me 
-
-- 💬 Ask me about anything.
-- 📧 <a href="mailto:e0210398@e.nus.edu">Email</a>
-- 💼 <a href= "https://www.linkedin.com/in/maitong-yan-a88059148/">LinkedIn</a>
-- 📖 <a href = "https://blog.csdn.net/sinat_23133783">CSDN</a>
-- ☁️ <a href = "https://martinyan.cn/#/blog/home">Blog</a>
-
-***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
 
