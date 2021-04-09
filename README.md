@@ -16,7 +16,7 @@ No Activity tracked this Week
 
 ### 👨‍💻 Open source work stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true&theme=merko)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 
