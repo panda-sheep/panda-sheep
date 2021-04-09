@@ -17,3 +17,6 @@ jobs:
       - uses: panda-sheep/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          HEAD_FLAG: true
+
