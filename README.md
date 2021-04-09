@@ -2,8 +2,6 @@
 ![panda-sheep's github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&count_private=true&show_icons=true&theme=dracula)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=panda-sheep&repo=Arc&show_owner=true)](https://github.com/panda-sheep/Arc)
 
-## Hey 👋, This is Ruan
-
 [![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
