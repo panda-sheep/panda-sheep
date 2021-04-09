@@ -1,11 +1,6 @@
 ## Hi there 👋🤓
 
 
-🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
-Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
-I love to explore and learn about any new things ❤️.
-
-
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
