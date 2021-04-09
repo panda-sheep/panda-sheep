@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![panda-sheep's github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panda-sheep&layout=compact)](https://github.com/panda-sheep/github-readme-stats)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=panda-sheep&repo=Arc&show_owner=true)](https://github.com/panda-sheep/Arc)
+
 
 
 <!--
