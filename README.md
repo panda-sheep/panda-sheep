@@ -4,7 +4,9 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 April, 2021 - 09 April, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
