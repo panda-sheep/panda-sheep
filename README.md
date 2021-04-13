@@ -1,15 +1,6 @@
 ## Hi there 👋🤓
 
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Week: 05 April, 2021 - 12 April, 2021
-
-
-```
-<!--END_SECTION:waka-->
-
 ### 👨‍💻 Open source work stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=panda-sheep&show_icons=true&line_height=24&count_private=true&theme=dark)
