@@ -1,5 +1,11 @@
 ## Hi there 👋🤓
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Week: 05 April, 2021 - 12 April, 2021
+```
+<!--END_SECTION:waka-->
 
 
 ### 👨‍💻 Open source work stats
